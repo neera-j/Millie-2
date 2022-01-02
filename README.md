@@ -4,14 +4,15 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="170" height="170"/>
  <p align="center">
+   
+   
 <a href="https://github.com/Neeraj-x0"><img title="NEERAJ" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
 Project created by <a href="https://github.com/neera-j">NEERAJ</a> to make it public
     <br>
-       | © 
-        Reserved |
+| © Reserved |
     <br> 
 </p>
 
@@ -19,9 +20,7 @@ Project created by <a href="https://github.com/neera-j">NEERAJ</a> to make it pu
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Neeraj-x0/Millie ">
-    <img src="https://img.shields.io/github/repo-size/n?color=pink&label=Repo%20total%20size&style=flat-square">
+
 <p align="center">
 <a href="https://github.com/Neeraj-x0/followers"><img title="Followers" src="https://img.shields.io/github/followers/Neeraj-x0?color=grey&style=plastic"></a>
 <a href="https://github.com/Neeraj-x0/Millie/"><img title="Stars" src="https://img.shields.io/github/stars/neera-j/luttappi?color=grey&style=plastic"></a>
@@ -31,21 +30,19 @@ Project created by <a href="https://github.com/neera-j">NEERAJ</a> to make it pu
 
 ## [Setup](#)
 
-<div align="center">
+<div align="left">
   
 ### [<u>Simple Method<u>](#)
-
-<div align="center">
   
-### 1 
   <br>
-  
-  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Luttappi)
 
-### 2 
-  <br>
+<div align="left">
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie.git)
+  
+  - [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Millie-QR)
+
+  
+ -  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie.git)
 </div>
 <br>
 <br>
@@ -58,6 +55,8 @@ Project created by <a href="https://github.com/neera-j">NEERAJ</a> to make it pu
 bash <(curl -L https://t.ly/tHxh)
 ```
 
+---
+            
 ### The Hard Method
 
 ```js
