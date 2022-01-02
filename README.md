@@ -1,17 +1,16 @@
-## Thanks for Everything 💖
+## MILLIE Whatsapp BOT 💖
 
-### We will always remember you..
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="170" height="170"/>
  <p align="center">
-<a href="https://github.com/neera-j"><img title="NEERAJ" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Neeraj-x0"><img title="NEERAJ" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
 Project created by <a href="https://github.com/neera-j">NEERAJ</a> to make it public
     <br>
-       | © |
+       | © 
         Reserved |
     <br> 
 </p>
@@ -21,26 +20,39 @@ Project created by <a href="https://github.com/neera-j">NEERAJ</a> to make it pu
 ---
 
 <p align="center">
-  <a href="https://github.com/neera-j/luttappi ">
-    <img src="https://img.shields.io/github/repo-size/neera-j/luttappi?color=pink&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/Neeraj-x0/Millie ">
+    <img src="https://img.shields.io/github/repo-size/n?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/neera-j/followers"><img title="Followers" src="https://img.shields.io/github/followers/neera-j?color=grey&style=plastic"></a>
-<a href="https://github.com/neera-j/luttappi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/neera-j/luttappi?color=grey&style=plastic"></a>
-<a href="https://github.com/neera-j/luttappi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/neera-j/luttappi?color=grey&style=plastic"></a>
-<a href="https://github.com/neera-j/luttappi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/neera-j/luttappi?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Neeraj-x0/followers"><img title="Followers" src="https://img.shields.io/github/followers/Neeraj-x0?color=grey&style=plastic"></a>
+<a href="https://github.com/Neeraj-x0/Millie/"><img title="Stars" src="https://img.shields.io/github/stars/neera-j/luttappi?color=grey&style=plastic"></a>
+<a href="https://github.com/Neeraj-x0/Millie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/neera-j/luttappi?color=grey&style=plastic"></a>
+<a href="https://github.com/Neeraj-x0/Millie/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/neera-j/luttappi?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-pink.svg"</a>
 
 ## [Setup](#)
 
-### [`<u>` Simple Method `<u>`](#)
+<div align="center">
+  
+### [<u>Simple Method<u>](#)
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Luttappi)
+<div align="center">
+  
+### 1 
+  <br>
+  
+  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@neera-j/Luttappi)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.plus&template=https%3A%2F%2Fgithub.com%2Fneera-j%2FLUTTAPPITEST)
-`</div>`
-`<br>`
-`<br >`
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+### 2 
+  <br>
+  
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Neeraj-x0/Millie.git)
+</div>
+<br>
+<br>
+  </div>
+  
+#### If Repl.it not working Try Termux for Qr scanning. Just Copy the Link Below in Termux 
+<br>
 
 ```
 bash <(curl -L https://t.ly/tHxh)
@@ -53,7 +65,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/neera-j/luttappi
+$ git clone https://github.com/Neeraj-x0/Millie.git
 $ cd luttappi
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -63,7 +75,7 @@ $ node qr.js
 
 ```js
 SETUP
-$ git clone https://github.com/neera-j/luttappi
+$ git clone https://github.com/Neeraj-x0/Millie.git
 $ cd luttappi
 $ chmod +x *
 $ npm i
